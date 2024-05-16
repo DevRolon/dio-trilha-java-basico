@@ -3,11 +3,7 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        //Conhecer e importar a classe scanner
-        //Exibir as msgs p/ o usuario
-        // Obter pela classe sacar os valores digitados no terminal
-        // Exibir a msg da conta criada
-
+       
          @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
